@@ -1,2 +1,8 @@
 ## Vangelis AI: Generation of Symbolic Spectromorphological Gestures Using MPE Datasets and Science Fictional Images
 
+![mainImage](https://github.com/php0614/AI-Spectromorphology/assets/6575931/beb99d95-8c4c-40de-b373-554e65009538)
+Fig. The overall structure
+
+
+### ABSTRACT
+Symbolic music generation using deep learning represents a Copernican turn in computer-aided composition. In addition to existing deep learning-based methods for notes-only symbolic music generation, our aim is to generate MIDI Polyphonic Expression (MPE) sequences that include musical expression data in control change (CC) format, fitting the impressions from a given image. In other words, our method automates part of the creative practice of film composers or sonic artists who frequently employ a spectromorphological framework in their work while establishing audio-visual relationships. First, we created an MPE dataset from a rendition on an MPE keyboard by a professional player, called PolySynthWave, targeted to be sonified with a typical subtractive synthesizer in mind. We then used this data, not only for the note information but also for the included five expressions per note. To tokenize, train, infer, and generate new control change curves along with the generated notes, we added a new pipeline to the existing ‘for notes-only’ model. Additionally, adjustments based on the visual analysis of an input image are involved during the inference phase. This research enables the generation of MPE sequences with human-like polyphonic expressions that align with the attributes of the input image. These sequences are recommended to be routed to common effect parameters such as pitch shift or filter cutoff, but can be utilized for various other applications.
