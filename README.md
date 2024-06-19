@@ -6,10 +6,7 @@
 This GitHub repository contains several practical outcomes of this project: [1] audio examples below, comparing the original rendition of an MPE keyboard and the generated one; [2] code for tokenization of control changes and channel numbers; and [3] code for visual analysis.
 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/php0614/AI-Spectromorphology/assets/6575931/b69e7e5a-7ab7-4c71-8baf-16cefa9eb927" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![ORIGINAL](http://img.youtube.com/vi/your-video-id/0.jpg)](https://github.com/php0614/AI-Spectromorphology/assets/6575931/b69e7e5a-7ab7-4c71-8baf-16cefa9eb927)
 
 Audio 1: An audio piece created from ORIGINAL sampled MIDI Polyphonic Expression data (a rendition of an MPE keyboard)
 
