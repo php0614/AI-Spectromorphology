@@ -8,7 +8,7 @@ This GitHub repository contains several practical outcomes of this project: [1] 
 
 [![ORIGINAL](http://img.youtube.com/vi/your-video-id/0.jpg)](https://github.com/php0614/AI-Spectromorphology/assets/6575931/b69e7e5a-7ab7-4c71-8baf-16cefa9eb927)
 
-Audio 1: An audio piece created from ORIGINAL sampled MIDI Polyphonic Expression data (a rendition of an MPE keyboard)
+Audio 1. An audio piece created from ORIGINAL sampled MIDI Polyphonic Expression data (a rendition of an MPE keyboard)
 
 [![GENERATED](http://img.youtube.com/vi/your-video-id/0.jpg)](https://github.com/php0614/AI-Spectromorphology/assets/6575931/7f04c7c4-67ce-4eeb-86fb-cc190980a1c3)
 
