@@ -12,7 +12,7 @@ This GitHub repository contains several practical outcomes of this project: [1] 
 
 Audio 1. An audio piece created from ORIGINAL sampled MIDI Polyphonic Expression data (a rendition of an MPE keyboard)
 
-[![GENERATED](http://img.youtube.com/vi/your-video-id/0.jpg)](https://github.com/php0614/AI-Spectromorphology/assets/6575931/7f04c7c4-67ce-4eeb-86fb-cc190980a1c3)
+[![GENERATED](http://img.youtube.com/vi/your-video-id/0.jpg)](https://github.com/php0614/AI-Spectromorphology/assets/6575931/0a0f12e5-7131-45ac-98e1-335567d9afd2)
 
 Audio 2. An audio piece created from GENERATED MIDI Polyphonic Expression data (through RNN)
 
