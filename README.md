@@ -1,4 +1,4 @@
-## Vangelis AI: Generation of Symbolic Spectromorphological Gestures Using MPE Datasets and Science Fictional Images
+# Vangelis AI: Generation of Symbolic Spectromorphological Gestures Using MPE Datasets and Science Fictional Images
 
 ![Main](https://github.com/php0614/AI-Spectromorphology/assets/6575931/e0ccb4c5-0389-49b7-8b2b-706dfa4985db)
  Fig. The overall structure
