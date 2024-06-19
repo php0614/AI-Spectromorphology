@@ -3,6 +3,8 @@
 ![Main](https://github.com/php0614/AI-Spectromorphology/assets/6575931/e0ccb4c5-0389-49b7-8b2b-706dfa4985db)
  Fig. The overall structure
 
+
+
 This GitHub repository contains several practical outcomes of this project: [1] audio examples below, comparing the original rendition of an MPE keyboard and the generated one; [2] code for tokenization of control changes and channel numbers; and [3] code for visual analysis.
 
 
